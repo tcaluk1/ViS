@@ -65,6 +65,7 @@ plt.hist(writing, bins = 20)
 plt.title('Histogram vrijednosti testa iz pisanja', fontweight = 'bold')
 plt.show()
 
+
 print("\n\n")
 
 plt.boxplot(writing)
